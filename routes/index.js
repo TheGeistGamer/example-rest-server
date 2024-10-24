@@ -1,0 +1,6 @@
+export * from './auth.routes.js'
+export * from './categorias.routes.js'
+export * from './user.routes.js'
+export * from './productos.routes.js'
+export * from './buscar.routes.js'
+export * from './uploads.routes.js'
